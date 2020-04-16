@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stock1.xsl"?>
+<cricketer_info>
+<cricketer>
+<name>Virat Kohli</name>
+<Points>869</Points>
+<country>India</country>
+<ICC_Ranking>1</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>Rohit Sharma</name>
+<Points>855</Points>
+<country>India</country>
+<ICC_Ranking>2</ICC_Ranking>
+</cricketer>
+<cricketer>
+ <name>Babur Azam</name>
+<Points>829</Points>
+<country>Pakistan</country>
+<ICC_Ranking>3</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>Ross Taylor</name>
+<Points>828</Points>
+<country>New Zealand</country>
+<ICC_Ranking>4</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>Faf du Plesis</name>
+<Points>791</Points>
+<country>South Africa</country>
+<ICC_Ranking>5</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>David Warner</name>
+<Points>781</Points>
+<country>Australia</country>
+<ICC_Ranking>6</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>Kane Williamson</name>
+<Points>773</Points>
+<country>New Zealand</country>
+<ICC_Ranking>7</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>Joe Root</name>
+<Points>770</Points>
+<country>England</country>
+<ICC_Ranking>8</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>Aaron Finch</name>
+<Points>758</Points>
+<country>Australia</country>
+<ICC_Ranking>9</ICC_Ranking>
+</cricketer>
+<cricketer>
+<name>Quinton de Cock</name>
+<Points>754</Points>
+<country>South Africa</country>
+<ICC_Ranking>10</ICC_Ranking>
+</cricketer>
+</cricketer_info>
